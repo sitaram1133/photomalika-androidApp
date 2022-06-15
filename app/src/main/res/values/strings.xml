@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PresentPoint</string>
+    <string name="passwordvalidationerror">Enter valid Password</string>
+    <string name="emailerror">Enter valid Email</string>
+</resources>
